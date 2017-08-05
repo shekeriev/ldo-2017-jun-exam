@@ -6,3 +6,4 @@ Please note that:
  - mysql password is expected to be 12345;
  - nginx is set to listen on port 80;
  - php files are expected to be in /site folder;
+ - nginx container should be started after php;
