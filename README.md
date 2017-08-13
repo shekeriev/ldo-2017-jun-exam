@@ -1,4 +1,4 @@
-# ldo-exam-20170806
+# ldo-2017-jun-exam
 Set of three Docker containters (nginx, php, mysql) that form a simple web application
 
 Please note that:
